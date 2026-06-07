@@ -61,7 +61,7 @@ The lab demonstrates common Help Desk tasks including:
 
 ## Lab Architecture Screenshot
 
-![Lab Architecture](screenshots/01-lab-archiecture.png)
+![Lab Architecture](screenshots/01-lab-architecture.png)
 
 ---
 
